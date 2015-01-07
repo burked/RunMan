@@ -20,12 +20,14 @@ namespace RunMan
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
         private Texture2D GameMap;
+        public Texture2D FightingMap;
 
 
         public Game1()
         {
             graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
+            FightingMap = Content.Load<Texture2D>(@"FightingStage");
         }
 
         /// <summary>
@@ -89,6 +91,11 @@ namespace RunMan
         {
             GraphicsDevice.Clear(Color.CornflowerBlue);
 
+            spriteBatch.Begin();
+
+            spriteBatch.Draw(GameMap, new Rectangle(0, 0, 800, 480), Color.White);
+
+            spriteBatch.End();
             // TODO: Add your drawing code here
           
             base.Draw(gameTime);
