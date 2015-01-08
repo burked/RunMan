@@ -27,7 +27,7 @@ namespace RunMan
         {
             graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
-            FightingMap = Content.Load<Texture2D>(@"FightingStage");
+         
         }
 
         /// <summary>
@@ -52,7 +52,7 @@ namespace RunMan
         {
             // Create a new SpriteBatch, which can be used to draw textures.
             spriteBatch = new SpriteBatch(GraphicsDevice);
-           
+            FightingMap = Content.Load<Texture2D>("FightingStage");
             
             // TODO: use this.Content to load your game content here
         }
@@ -93,7 +93,7 @@ namespace RunMan
 
             spriteBatch.Begin();
 
-            spriteBatch.Draw(GameMap, new Rectangle(0, 0, 800, 480), Color.White);
+            spriteBatch.Draw(FightingMap, Vector2.Zero, Color.White);
 
             spriteBatch.End();
             // TODO: Add your drawing code here

@@ -6,3 +6,11 @@ C:\Users\eahscs\Documents\GitHub\RunMan\RunMan\RunMan\RunMan\obj\x86\Debug\Micro
 C:\Users\eahscs\Documents\GitHub\RunMan\RunMan\RunMan\RunMan\obj\x86\Debug\RunMan.exe
 C:\Users\eahscs\Documents\GitHub\RunMan\RunMan\RunMan\RunMan\obj\x86\Debug\RunMan.pdb
 C:\Users\eahscs\Documents\GitHub\RunMan\RunMan\RunMan\RunMan\bin\x86\Debug\Content\FightingStage.xnb
+C:\Users\EASHCS\Documents\GitHub\RunMan\RunMan\RunMan\RunMan\bin\x86\Debug\Content\FightingStage.xnb
+C:\Users\EASHCS\Documents\GitHub\RunMan\RunMan\RunMan\RunMan\bin\x86\Debug\RunMan.exe
+C:\Users\EASHCS\Documents\GitHub\RunMan\RunMan\RunMan\RunMan\bin\x86\Debug\RunMan.pdb
+C:\Users\EASHCS\Documents\GitHub\RunMan\RunMan\RunMan\RunMan\bin\x86\Debug\xTile.dll
+C:\Users\EASHCS\Documents\GitHub\RunMan\RunMan\RunMan\RunMan\obj\x86\Debug\RunMan.csprojResolveAssemblyReference.cache
+C:\Users\EASHCS\Documents\GitHub\RunMan\RunMan\RunMan\RunMan\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\EASHCS\Documents\GitHub\RunMan\RunMan\RunMan\RunMan\obj\x86\Debug\RunMan.exe
+C:\Users\EASHCS\Documents\GitHub\RunMan\RunMan\RunMan\RunMan\obj\x86\Debug\RunMan.pdb
