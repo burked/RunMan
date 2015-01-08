@@ -1,1 +1,3 @@
 Content\FightingStage.xnb
+Content\goku_sprites.xnb
+Content\vegita_sprites.xnb

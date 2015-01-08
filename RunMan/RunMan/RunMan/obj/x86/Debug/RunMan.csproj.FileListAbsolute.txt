@@ -14,3 +14,5 @@ C:\Users\EASHCS\Documents\GitHub\RunMan\RunMan\RunMan\RunMan\obj\x86\Debug\RunMa
 C:\Users\EASHCS\Documents\GitHub\RunMan\RunMan\RunMan\RunMan\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\EASHCS\Documents\GitHub\RunMan\RunMan\RunMan\RunMan\obj\x86\Debug\RunMan.exe
 C:\Users\EASHCS\Documents\GitHub\RunMan\RunMan\RunMan\RunMan\obj\x86\Debug\RunMan.pdb
+C:\Users\EASHCS\Documents\GitHub\RunMan\RunMan\RunMan\RunMan\bin\x86\Debug\Content\goku_sprites.xnb
+C:\Users\EASHCS\Documents\GitHub\RunMan\RunMan\RunMan\RunMan\bin\x86\Debug\Content\vegita_sprites.xnb

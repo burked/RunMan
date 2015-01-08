@@ -9,6 +9,24 @@
       <Output>C:\Users\EASHCS\Documents\GitHub\RunMan\RunMan\RunMan\RunMan\bin\x86\Debug\Content\FightingStage.xnb</Output>
       <Time>2015-01-08T09:22:07.8204-05:00</Time>
     </Item>
+    <Item>
+      <Source>goku_sprites.png</Source>
+      <Name>goku_sprites</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\EASHCS\Documents\GitHub\RunMan\RunMan\RunMan\RunMan\bin\x86\Debug\Content\goku_sprites.xnb</Output>
+      <Time>2015-01-08T09:54:41.6444-05:00</Time>
+    </Item>
+    <Item>
+      <Source>vegita_sprites.png</Source>
+      <Name>vegita_sprites</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\EASHCS\Documents\GitHub\RunMan\RunMan\RunMan\RunMan\bin\x86\Debug\Content\vegita_sprites.xnb</Output>
+      <Time>2015-01-08T09:54:50.7594-05:00</Time>
+    </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
       <TargetPlatform>Windows</TargetPlatform>

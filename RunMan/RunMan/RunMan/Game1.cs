@@ -18,16 +18,19 @@ namespace RunMan
     public class Game1 : Microsoft.Xna.Framework.Game
     {
         GraphicsDeviceManager graphics;
+        
         SpriteBatch spriteBatch;
-        private Texture2D GameMap;
         public Texture2D FightingMap;
-
+        public Texture2D GokuSpriteSheet;
+        public Texture2D VegitaSpriteSheet;
 
         public Game1()
         {
             graphics = new GraphicsDeviceManager(this);
+            graphics.PreferredBackBufferHeight = 113;
+            graphics.PreferredBackBufferWidth = 282;
             Content.RootDirectory = "Content";
-         
+            
         }
 
         /// <summary>
@@ -53,7 +56,8 @@ namespace RunMan
             // Create a new SpriteBatch, which can be used to draw textures.
             spriteBatch = new SpriteBatch(GraphicsDevice);
             FightingMap = Content.Load<Texture2D>("FightingStage");
-            
+            GokuSpriteSheet = Content.Load<Texture2D>("goku_sprites");
+            VegitaSpriteSheet = Content.Load<Texture2D>("vegita_sprites");
             // TODO: use this.Content to load your game content here
         }
 
